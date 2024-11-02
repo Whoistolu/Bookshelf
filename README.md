@@ -13,6 +13,8 @@ I built this application to keep my Vanilla JS skills in check.
 - CSS
 - HTML
 
+![Project Image](images/To-Do.png)
+
 ## To get a local copy run the following steps:
 - Copy this link [this link](https://github.com/Whoistolu/ToDo)
 - Open your terminal or command line
