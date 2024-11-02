@@ -7,6 +7,8 @@ In this JavaScript Project I used the Local Storage to store the task list in th
 
 I built this application to keep my Vanilla JS skills in check.
 
+### [Live Link](https://whoistolu.github.io/ToDo/)
+
 ## Built With
 
 - Vanilla JS
