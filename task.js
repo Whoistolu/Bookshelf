@@ -35,3 +35,9 @@ const showData = () => {
     listContainer.innerHTML = localStorage.getItem("data");
 }
 showData();
+
+const editTask = () => {
+    if () {
+        
+    }
+}
