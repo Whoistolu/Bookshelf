@@ -39,4 +39,7 @@ showData();
 const editTask = () => {
 
     const newTask = prompt("Edit your task:", li.innerHTML.textContent);
+    if (newTask === null || newTask.trim() === "") {
+        alert("Task cannot be empty")
+    }
 }
