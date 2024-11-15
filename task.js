@@ -42,4 +42,6 @@ const editTask = () => {
     if (newTask === null || newTask.trim() === "") {
         alert("Task cannot be empty")
     }
+
+    li.firstChild.textContent = newTask;
 }
