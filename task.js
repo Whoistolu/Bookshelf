@@ -37,7 +37,6 @@ const showData = () => {
 showData();
 
 const editTask = () => {
-    if () {
-        
-    }
+
+    const newTask = prompt("Edit your task:", li.innerHTML.textContent);
 }
