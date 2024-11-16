@@ -113,3 +113,11 @@ ul li span {
 ul li span:hover {
     background: #edeef0;
 }
+
+.edit-button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: #fff;
+    text-align: center;
+}
