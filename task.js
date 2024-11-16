@@ -46,5 +46,10 @@ const editTask = () => {
 
     li.firstChild.textContent = newTask;
 
+    let editButton = document.createElement("button");
+    editButton.textContent = "Edit";
+    editButton.classList.add("edit-button");
+    li.appendChild(editButton);
+
     saveData();
 }
