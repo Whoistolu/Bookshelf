@@ -51,5 +51,11 @@ const editTask = () => {
     editButton.classList.add("edit-button");
     li.appendChild(editButton);
 
+    listContainer.addEventListener("click", function(e) {
+        if (e.target.classList.contains("edit-button")) {
+            editTask(e.target.parentElement);
+        }
+    });
+
     saveData();
 }
