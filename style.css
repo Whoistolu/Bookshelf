@@ -52,7 +52,7 @@ input {
     padding: 10px;
 }
 
-.add-button {
+button {
     border: none;
     outline: none;
     padding: 16px 50px;
